@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SadPlum, journeyman electrician, amateur coder.
 - 👀 I’m interested in learning web-development and data technologies.
-- 🌱 I’m currently learning javascript, html, css, and eventually python.
+- 🌱 I’m currently developing in in JS(ES6), CSS, HTML and soon-to-be Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
